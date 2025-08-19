@@ -1,4 +1,5 @@
 # --- Boot de bibliotecas ---
+# Versão 1.0 do pipeline jurídico
 import re
 import os
 import spacy
